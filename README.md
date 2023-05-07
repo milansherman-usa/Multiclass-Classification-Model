@@ -33,7 +33,7 @@ This solution improved upon the way that we were currently generating quotes in 
 
 <p align="center">
 : <br/>
-<img src="https://github.com/milansherman-usa/Multiclass-Classification-Model/blob/main/Approved%20Risk%20Class.pdf"/>
+<a href="https://github.com/milansherman-usa/Multiclass-Classification-Model/blob/main/Approved%20Risk%20Class.pdf" target="_blank">Portfolio<a/>
 <br />
 <br />
 
