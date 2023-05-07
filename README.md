@@ -29,10 +29,10 @@ This solution improved upon the way that we were currently generating quotes in 
 - <b>Catboost</b>
 - <b>XGBoost</b>
 
-<h2>Program walk-through:</h2>
+<h2>Jupyter Notebook:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
