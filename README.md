@@ -29,13 +29,8 @@ This solution improved upon the way that we were currently generating quotes in 
 - <b>Catboost</b>
 - <b>XGBoost</b>
 
-<h2>Jupyter Notebook:</h2>
+<h2><a href="https://github.com/milansherman-usa/Multiclass-Classification-Model/blob/main/Approved%20Risk%20Class.pdf" target="_blank">Jupyter Notebook (pdf)<a/></h2>
 
-<p align="center">
-: <br/>
-<a href="https://github.com/milansherman-usa/Multiclass-Classification-Model/blob/main/Approved%20Risk%20Class.pdf" target="_blank">Portfolio<a/>
-<br />
-<br />
 
 
 <!--
